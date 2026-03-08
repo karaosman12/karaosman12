@@ -7,7 +7,6 @@
 
 ## 🌟 Hakkımda
 
-- 🏡 Doğayla iç içe, dağlık bölgede yaşıyorum.  
 - ⚡ Evde projeler ve öğrenme odaklı aktiviteler yapıyorum.  
 - 📚 Açık kaynak ve yeni teknolojilerle ilgileniyorum.  
 
@@ -24,8 +23,8 @@
 
 ## 📫 İletişim
 
-- [Instagram](https://instagram.com/)  
-- [GitHub](https://github.com/)  
+- [Instagram](https://www.instagram.com/alikaraosman1)  
+- [GitHub](https://github.com/karaosman12)  
 
 ---
 
