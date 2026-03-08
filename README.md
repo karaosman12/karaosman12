@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Ali Karaosman
 
-<!--
-**karaosman12/karaosman12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Yazılım ve web geliştirme tutkunu, özellikle **frontend ve CSS ile etkileşimli tasarımlar** üzerine çalışıyorum.  
+🎮 Oyunlar ve teknoloji ile iç içe, yeni şeyler denemeyi seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Hakkımda
+
+- 🏡 Doğayla iç içe, dağlık bölgede yaşıyorum.  
+- ⚡ Evde projeler ve öğrenme odaklı aktiviteler yapıyorum.  
+- 📚 Açık kaynak ve yeni teknolojilerle ilgileniyorum.  
+
+---
+
+## 💻 Yetenekler
+
+- **Frontend:** HTML5, CSS3, Flexbox, Grid  
+- **CSS Animasyonları ve Etkileşimler:** Hover, Toggle, Transitions  
+- **Temel Backend ve Script:** Python temelleri, dosya yönetimi ve basit şifreleme  
+- **Oyun ve Grafik:** Web tabanlı küçük projeler, oyun mantığı örnekleri  
+
+---
+
+## 📫 İletişim
+
+- [Instagram](https://instagram.com/)  
+- [GitHub](https://github.com/)  
+
+---
+
+## ⚡ İlgi Alanları
+
+- 🎮 War Thunder, GTA 5 Online, Battlefield  
+- 🔧 Evde DIY projeleri (ahşap, küçük mekanik işler)  
+- 🖥️ Bilgisayar donanımı ve sistem toplama  
+
+---
