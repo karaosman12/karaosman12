@@ -30,8 +30,8 @@
 
 ## ⚡ İlgi Alanları
 
-- 🎮 War Thunder, GTA 5 Online, Battlefield  
-- 🔧 Evde DIY projeleri (ahşap, küçük mekanik işler)  
-- 🖥️ Bilgisayar donanımı ve sistem toplama  
+- 🎮 Oyun oynamak 
+- 🔧 Evde DIY projeleri   
+- 🖥️ Yazılım   
 
 ---
