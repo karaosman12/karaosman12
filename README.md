@@ -19,6 +19,12 @@
 - **Temel Backend ve Script:** Python temelleri, dosya yönetimi ve basit şifreleme  
 - **Oyun ve Grafik:** Web tabanlı küçük projeler, oyun mantığı örnekleri  
 
+
+## 📊 Kod İstatistiklerim
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karaosman12&layout=compact&theme=tokyonight)
+
+
 ---
 
 ## 📫 İletişim
